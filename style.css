@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(196, 198, 185);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1.T{
+    color: rgb(22, 22, 105);
+    position: relative;
+    text-align: right;
+    font-size: 50px;
+    letter-spacing: 50px;
+}
+p.title{
+    background-color: 	rgb(93, 99, 54);
+    font-weight: bold;
+    color: white;
+    font-size: xx-large;
+}
+p.title2{
+    clear: left;
+    background-color: 	rgb(93, 99, 54);
+    font-weight: bold;
+    color: white;
+    font-size: xx-large;
+}
+p.text{
+    font-size: x-large;
+}
+img.smf{
+    float: left;
+    margin-right: 1%;
+}
+p.sc{
+    text-align: center;
+}
+img.smn{
+    float: right;
+}
+footer{
+    font-style: oblique;
+    font-size: large;
+    clear: right;
+}
+span.vip{
+    font-weight: bold;
+    font-style: oblique;
+}
